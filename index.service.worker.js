@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1737963683|1969299584';
+const CACHE_VERSION = '1737964230|66293962';
 /** @type {string} */
 const CACHE_PREFIX = 'The Forsaken Lab-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
